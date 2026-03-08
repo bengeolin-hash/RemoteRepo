@@ -1,2 +1,2 @@
 # RemoteRepo
-this repo is remote
+this is repo and remote
